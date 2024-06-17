@@ -40,7 +40,7 @@ class AdaPay {
 
     public static function init($config_info, $prod_mode = "live", $is_object = false): void {
 
-        require __DIR__ . '\\..\\AdapaySdk\\init.php';
+        require __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'AdapaySdk' . DIRECTORY_SEPARATOR . 'init.php';
 
 
         if (empty($config_info)) {

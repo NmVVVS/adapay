@@ -3,6 +3,10 @@
   "description": "基于AdaPay官方PHP v1.4.4的composer包",
   "type": "libaray",
   "version": "1.4.4",
+  "keywords": [
+    "AdaPay",
+    "pay"
+  ],
   "require": {
     "php": ">=8.0.0",
     "ext-curl": "*",
