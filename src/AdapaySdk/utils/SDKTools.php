@@ -1,7 +1,7 @@
 <?php
 
-namespace NwVVVS\Adapay\AdapaySdk\utils;
-use NwVVVS\Adapay\AdapayCore\AdaPay;
+namespace NwVVVS\AdapaySdk\utils;
+use NwVVVS\AdapayCore\AdaPay;
 
 
 class SDKTools extends AdaPay

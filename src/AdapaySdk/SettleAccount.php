@@ -1,7 +1,7 @@
 <?php
 
-namespace NwVVVS\Adapay\AdapaySdk;
-use NwVVVS\Adapay\AdapayCore\AdaPay;
+namespace NwVVVS\AdapaySdk;
+use NwVVVS\AdapayCore\AdaPay;
 
 class SettleAccount extends AdaPay
 {

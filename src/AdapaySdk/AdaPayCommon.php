@@ -6,9 +6,9 @@
  * Time: 13:34
  */
 
-namespace NwVVVS\Adapay\AdapaySdk;
+namespace NwVVVS\AdapaySdk;
 
-use NwVVVS\Adapay\AdapayCore\AdaPay;
+use NwVVVS\AdapayCore\AdaPay;
 
 
 class AdaPayCommon extends AdaPay {

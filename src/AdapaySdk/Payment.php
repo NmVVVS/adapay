@@ -1,7 +1,7 @@
 <?php
-namespace NwVVVS\Adapay\AdapaySdk;
+namespace NwVVVS\AdapaySdk;
 
-use NwVVVS\Adapay\AdapayCore\AdaPay;
+use NwVVVS\AdapayCore\AdaPay;
 
 
 class Payment extends AdaPay{

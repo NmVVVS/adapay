@@ -1,8 +1,10 @@
 <?php
 
-namespace NwVVVS\Adapay\AdapaySdk;
+namespace NwVVVS\AdapaySdk;
 
 
+
+use NwVVVS\AdapayCore\AdaPay;
 
 class Account extends AdaPay {
     static private $instance;

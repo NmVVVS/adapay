@@ -1,5 +1,5 @@
 <?php
-namespace NwVVVS\Adapay\AdapayCore\utils;
+namespace NwVVVS\AdapayCore\utils;
 
 class AdaTools
 {

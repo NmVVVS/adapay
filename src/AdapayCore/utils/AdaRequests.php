@@ -1,8 +1,8 @@
 <?php
 
-namespace NwVVVS\Adapay\AdapayCore\utils;
+namespace NwVVVS\AdapayCore\utils;
 
-use NwVVVS\Adapay\AdapayCore\AdaPay;
+use NwVVVS\AdapayCore\AdaPay;
 
 class AdaRequests {
 
