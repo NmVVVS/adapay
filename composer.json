@@ -11,7 +11,7 @@
   "license": "ApaApache-2.0",
   "autoload": {
     "psr-4": {
-      "Wahaha\\": "src/"
+      "NwVVVS\\": "src/"
     }
   },
   "authors": [
